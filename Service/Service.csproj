@@ -64,7 +64,6 @@
     <None Include="App.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="nuget.config" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ServiceInstaller.resx">
